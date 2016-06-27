@@ -22,11 +22,11 @@ Getting Started
 ---------------
 Teaching material is largely in Jupyter Notebook format, and can be followed by either:
 
-1. Downloading the material from [GitHub](https://github.com/ngcm/summer-academy-2016-basics/archive/exercises_b.zip),
+1. Downloading the material from [GitHub](https://github.com/p-chambers/Intermediate_Python/archive/master.zip),
 
   navigating the main directory with
 
-  > `cd basics_B/Intermediate_Python`
+  > `cd Intermediate_Python-master`
 
   and viewing the 'index.ipynb' as a jupyter notebook with
 
@@ -35,6 +35,7 @@ Teaching material is largely in Jupyter Notebook format, and can be followed by 
   You should also remove output with
 
   > `Kernel > Restart > Clear all outputs and restart`
+  
+  **You could also clone the material and follow a similar pattern - these instructions are provided for those who are not comfortable cloning from GitHub.**
 
-2. Viewing static material at [nbviewer](http://nbviewer.jupyter.org/github/ngcm/summer-academy-2016-basics/blob/gh-pages/basics_B/Intermediate_Python/index.ipynb)
-
+2. Viewing static material at [nbviewer](https://nbviewer.jupyter.org/github/p-chambers/Intermediate_Python/blob/master/index.ipynb)
